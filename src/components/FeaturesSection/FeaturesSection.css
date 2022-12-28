@@ -1,0 +1,19 @@
+.features-section {
+    padding-top: 200px;
+    padding-bottom: 345px;
+}
+
+.features-title {
+    text-align: center;
+    font-size: 65px;
+    font-weight: 700;
+    color: #414141;
+    margin-bottom: 72px;
+}
+
+.features-cards {
+    margin: 0 auto;
+    display: flex;
+    width: 1170px;
+    justify-content: space-evenly;
+}

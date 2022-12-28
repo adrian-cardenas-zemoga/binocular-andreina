@@ -1,0 +1,81 @@
+.plans-section{
+    padding-left: 270px;
+    padding-right: 270px;
+	padding-bottom: 300px;
+}
+
+.plans-section-title {
+	font-size: 43px;
+	color: #222222;
+	font-weight: 700;
+	margin-bottom: 30px;
+}
+
+.plans-section-description {
+	font-size: 18px;
+	color: #414141;
+	font-weight: 400;
+	width: 660px;
+	margin-bottom: 70px;
+}
+
+.plans-cards {
+	display: flex;
+	justify-content: space-between;
+}
+
+.plans-cards-list {
+	width: 871px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.plans-contact {
+	width: 420px;
+	height: 425px;
+	background: #F5F5F5;
+	border: 2px solid #D8D8D8;
+	box-shadow: 7px 7px 6px #DEDEDE;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 40px;
+	padding-bottom: 35px;
+	text-align: center;
+}
+
+.plans-contact-title {
+	font-size: 32px;
+	color: #222222;
+	font-weight: 700;
+	margin-bottom: 28px;
+	text-align: left;
+}
+
+.plans-contact-description {
+	font-size: 18px;
+	color: #414141;
+	font-weight: 400;
+	margin-bottom: 105px;
+	text-align: left;
+}
+
+.plans-contact-input {
+	width: 100%;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border: 2px solid #C9C9C9;
+	border-radius: 12px;
+	height: 50px;
+	padding: 15px;
+	font-size: 15px;
+	font-weight: 700;
+	margin-bottom: 30px;
+}
+
+.plans-contact-button {
+	width: 175px;
+	height: 50px;
+	background: transparent linear-gradient(180deg, #0B1A27 0%, #152534 59%, #0B1A27 100%) 0% 0% no-repeat padding-box;
+	border-radius: 12px;
+	color: #FFFFFF;
+	border: none;
+}

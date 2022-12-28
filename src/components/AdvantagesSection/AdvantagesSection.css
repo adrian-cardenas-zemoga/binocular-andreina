@@ -1,0 +1,25 @@
+.advantages-container {
+	margin-right: 250px;
+	margin-left: 295px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.advantages-info {
+	width: 490px;
+}
+
+.advantages-info-title{
+	font-size: 43px;
+	font-weight: 700;
+	color: #222222;
+	margin-bottom: 20px;
+}
+
+.advantages-info-description{
+	font-size: 18px;
+	font-weight: 400;
+	color: #666666;
+	margin-bottom: 25px;
+	width: 472px;
+}

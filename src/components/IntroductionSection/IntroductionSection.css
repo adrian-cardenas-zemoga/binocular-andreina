@@ -1,0 +1,65 @@
+.introduction-container {
+    padding-bottom: 360px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.introduction-icon {
+    margin-bottom: 30px;
+    height: 64px;
+    width: 64px;
+}
+
+.introduction-section {
+    display: flex;
+    justify-content: space-between;
+    width: 1290px;
+}
+
+.introduction-image{
+    width: 705;
+    height: 416px;
+}
+
+.introduction-info {
+    width: 536px;
+}
+
+.introduction-info-title {
+    font-size: 43px;
+    color: #222222;
+    font-weight: 700;
+    width: 435px;
+    margin-bottom: 30px;
+}
+
+.introduction-info-description {
+    font-size: 18px;
+    color: #666666;
+    font-weight: 400;
+    margin-bottom: 40px;
+    line-height: 30px;
+}
+
+.introduction-list {
+    margin-bottom: 60px;
+}
+
+.introduction-list li {
+    font-size: 18px;
+    color: #222222;
+    line-height: 48px;
+    font-weight: 500;
+}
+
+.introduction-button {
+    width: 175px;
+    height: 60px;
+    background-color: #244A6D;
+    border: none;
+    border-radius: 35px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 18px;
+}

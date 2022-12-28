@@ -1,0 +1,24 @@
+.feature {
+    text-align: center;
+    width: 370px;
+    height: 370px;
+    padding: 70px 61px 34px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 59px #00000015;
+    border-radius: 10px;
+}
+
+.feature-title {
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    color: #000000;
+}
+
+.feature-description {
+    font-size: 16px;
+    line-height: 48px;
+    color: #666666;
+    font-weight: 400;
+}

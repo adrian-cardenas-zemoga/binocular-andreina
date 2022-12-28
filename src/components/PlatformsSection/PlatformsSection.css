@@ -1,0 +1,35 @@
+.platforms-section {
+	height: 723px;
+	position: relative;
+}
+
+.platforms-section-info {
+	color: #FFFFFF;
+	position: absolute;
+	top: 126px;
+	right: 330px;
+}
+
+.platforms-section-title {
+	font-size: 71px;
+	font-weight: 700;
+	margin-bottom: 42px;
+	width: 476px;
+}
+
+.platforms-section-description {
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 35px;
+	margin-bottom: 62px;
+	width: 626px;
+}
+
+.platforms-section-buttons {
+	display: flex;
+}
+
+.platforms-section-button {
+	width: 245px;
+	height: 85px;
+}

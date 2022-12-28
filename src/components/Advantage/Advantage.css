@@ -1,0 +1,26 @@
+.advantage-card {
+    margin-bottom: 36px;
+}
+
+.advantage-title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.advantage-icon {
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+}
+
+.advantage-text {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.advantage-description {
+    font-size: 16px;
+    color: #666666;
+    font-weight: 500;
+}

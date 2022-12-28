@@ -1,0 +1,37 @@
+.information-header-container {
+    height: 57px;
+    background: #FFFFFF;
+    color:#244A6D;
+    padding-right: 46px;
+    padding-left: 178px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #C9C9C9;
+}
+
+.information-header-contact {
+    display: flex;
+}
+
+.information-header-link {
+    text-decoration: none;
+    color: #244A6D;
+    margin-right: 40px;
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: 500;
+}
+
+.information-header-link-image {
+    margin-right: 16px
+}
+
+.information-header-language {
+    margin-right: 23px;
+    font-size: 18px;
+    font-weight: 500;
+}
